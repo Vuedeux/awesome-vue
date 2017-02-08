@@ -755,6 +755,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-scrollTo](https://github.com/rigor789/vue-scrollTo) A Vue.js directive that can scroll to elements on the page (with offest and easing, no jQuery required)
   - [vue-factory](https://github.com/ye-will/vue-factory) - A simple factory/provider extension for Vue.js, like services in Angular.
   - [vue-chat-scroll](https://github.com/theomessin/vue-chat-scroll): keep element scrolled to the bottom (for Vuejs 2)
+  -[vuedeux](https://github.com/Vuedeux/vuedeux): a lightweight, open-source utility layer for binding Vuex to Redux allowing developers to efficiently use their Redux stores within Vue/Vuex applications.
   
 - #### SEO
 
